@@ -1,7 +1,7 @@
 # stats220
 
 
-### My tasks for this STATS 220 course is: 
+### My tasks for this STATS 220 course are: 
 - [ ] Get all of my labs + quizzes done
 - [ ] Start early with my assignment &  finish them early
 - [ ] REVISE and ace the exam!
@@ -21,10 +21,8 @@ I am an undergraduate student from the University Of Auckland majoring in the be
 ## Purpose 
 The motive of this project is to show what I am currently studying, specifically what I am currently learning in [STATS 220 : Data Technologies](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213). This is my first project assigned, where I am applying what I've learnt into practice.
 
-## What I enjoyed 
+## What I enjoyed from this project
 I NEVER THOUGHT THAT I COULD MAKE MEMES AND ANIMATIONS FOR MY FIRST PROJECT! Making them was really fun, and I hope my viewers appreciate what I've attempted to make. 
 
 My fav meme of all time: 
-
-
 ![medicine-doctor-medic-medical-lol-funny-funny-memes-hospital](https://user-images.githubusercontent.com/126785015/224315417-b8a88c69-af31-449c-8da9-70c569a240a0.png)
